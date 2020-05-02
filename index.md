@@ -2,7 +2,7 @@
 
 I'm mostly trying to import a picture of my dog. 
 
-![Image](FBA080F6-DE3A-4BF0-B232-497A57F9836C_1_105_c.jpeg) 
+![Image](https://github.com/Williams-Leith/images/blob/master/FBA080F6-DE3A-4BF0-B232-497A57F9836C_1_105_c.jpeg) 
 
 You can use the [editor on GitHub](https://github.com/Williams-Leith/Williams-Leith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
