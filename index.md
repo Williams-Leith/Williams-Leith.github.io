@@ -2,7 +2,7 @@
 
 I'm mostly trying to import a picture of my dog. 
 
-![Branston](https://github.com/Williams-Leith/images/blob/master/IMG_0567.jpg) 
+![Branston](https://github.com/Williams-Leith/images/blob/master/IMG_0567.png) 
 
 Not easy, because Git hub is complicated. You can use the [editor on GitHub](https://github.com/Williams-Leith/Williams-Leith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
