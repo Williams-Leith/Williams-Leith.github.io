@@ -2,9 +2,9 @@
 
 I'm mostly trying to import a picture of my dog. 
 
-![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg) 
+![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg "Branston") 
 
-Not easy, because GitHub is complicated. ***But I did it.*** 
+Not easy, because GitHub is complicated. **But I did it.** 
 
 
 
