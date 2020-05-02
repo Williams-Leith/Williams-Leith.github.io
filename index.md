@@ -1,10 +1,12 @@
-## Welcome to Williams doing a GitHub page
+### Welcome to Williams doing a GitHub page
 
 I'm mostly trying to import a picture of my dog. 
 
 ![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg) 
 
-Not easy, because Git hub is complicated. You can use the [editor on GitHub](https://github.com/Williams-Leith/Williams-Leith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Not easy, because GitHub is complicated. ***But I did it.*** 
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
