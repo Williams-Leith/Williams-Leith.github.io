@@ -6,7 +6,7 @@ I'm mostly trying to import a picture of my dog.
 
 Not easy, because GitHub is complicated. **But I did it.** *Actually that's a lie. My friend Chris told me to add this link:*
 
-https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg
+<https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg>
 
 [See it here](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg)
 
