@@ -4,10 +4,9 @@ I'm mostly trying to import a picture of my dog.
 
 ![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg "Branston") 
 
-Not easy, because GitHub is complicated. **But I did it.** *Actually that's a lie. My friend Chris told me to add this code:*
-```
-(https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg
-```
+Not easy, because GitHub is complicated. **But I did it.** *Actually that's a lie. My friend Chris told me to add this link:*
+(https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg)
+
 The `raw` and `githubusercontent.com` bits weren't in the github training, which was **_lacking_**. 
 
 ~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`.
