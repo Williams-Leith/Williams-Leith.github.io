@@ -1,4 +1,4 @@
-# **Welcome to Williams doing a GitHub page**
+# **Williams doing a GitHub page**
 
 I'm mostly trying to import a picture of my dog. 
 
@@ -14,6 +14,9 @@ Not easy, because GitHub is complicated. **But I did it.**
 4. Try a link.
 5. Pretend I can write `code`
 
+```python 
+My son can do stuff on python on his raspberry. Maybe I should subcontract him
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
