@@ -14,9 +14,7 @@ The `raw` and `githubusercontent.com` bits weren't in the github training, which
 
 When I told him it worked, he said,
 > Cool. I've never even used this before!
-
-:frowning_face:
-
+:confused:
 
 ~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`. **Note** I've added `alt text`. Hover mouse over pictures to reveal vital details.
 
