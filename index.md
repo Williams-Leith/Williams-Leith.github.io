@@ -22,8 +22,8 @@ The `raw` and `githubusercontent.com` bits weren't in the github training, which
 - [ ] Organise things I want to do
 - [x] Do a table
 - [x] Try a link.
-- [x] Pretend I can write `code`
 - [x] Mess about with syntax
+- [x] Pretend I can write `code`
 
 ``` 
 Python. My son can do stuff on python on his raspberry. 
