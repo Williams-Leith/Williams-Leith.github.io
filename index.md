@@ -8,11 +8,11 @@ Not easy, because GitHub is complicated. **But I did it.**
 
 ## **Backwards and downwards!**
 
-1. Let's do a list
-2. Organise things I want to do
-3. Do a table
-4. Try a link.
-5. Pretend I can write `code`
+- [x] Let's do a list
+- [ ] Organise things I want to do
+- [x] Do a table
+- [ ] Try a link.
+- [x] Pretend I can write `code`
 
 ``` 
 Python. My son can do stuff on python on his raspberry. 
@@ -28,10 +28,19 @@ Maybe I should subcontract him.
 
 #### Lazy Tables
 
-Apsiration | Effort | Reality |
+Aspiration | Effort | Reality |
 --- | --- | --- 
 Hard tables | Max | Fail
 Easy tables | Min | Fail
+
+
+#### Lahdida Tables
+
+Task | Done | Confidence |
+--- | --- | --- 
+Dog pic | [x] | Still confused by links
+Code highlight | [x]| Not bad
+Tables | [x]| Pushing it
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
