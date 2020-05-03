@@ -1,6 +1,10 @@
 # **Williams doing a GitHub page**
 
-I'm mostly trying to import a picture of my dog. 
+## Purpose
+This page is mostly for me, Matthew Williams, to teach myself `Markdown` and some basics about GitHub.
+This page might be interesting if you're trying to master Markdown yourself. 
+
+To start with I'm mostly trying to import a picture of my dog. 
 
 ![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg "Branston") 
 
