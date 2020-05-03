@@ -2,7 +2,7 @@
 
 I'm mostly trying to import a picture of my dog. 
 
-![alt text][Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg "Branston") 
+![Branston](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg "Branston") 
 
 Not easy, because GitHub is complicated. **But I did it.** 
 
