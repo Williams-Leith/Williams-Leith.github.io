@@ -6,6 +6,10 @@ I'm mostly trying to import a picture of my dog.
 
 Not easy, because GitHub is complicated. **But I did it.** 
 
+1. Let's do a list
+2. Organise things I want to do
+3. Do a table
+4. Try a link.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
