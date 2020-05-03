@@ -10,6 +10,10 @@ Not easy, because GitHub is complicated. **But I did it.** *Actually that's a li
 ```
 The `raw` and `githubusercontent.com` bits weren't in the github training, which was **_lacking_**. 
 
+~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`.
+
+![Take me back](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_takemeback.jpg "Take me back!")
+
 ## **Backwards and downwards!**
 
 - [x] Let's do a list
