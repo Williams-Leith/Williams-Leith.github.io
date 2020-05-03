@@ -1,6 +1,6 @@
 # **Williams doing a GitHub page**
 
-## Purpose
+### Purpose
 This page is mostly for me, Matthew Williams, to teach myself `Markdown` and some basics about GitHub.
 This page might be interesting if you're trying to master Markdown yourself. 
 
