@@ -26,7 +26,7 @@ Maybe I should subcontract him.
 |Hard tables  | Max    | Fail    |
 |Easy tables  | Min    | Fail    |
 
-### Lazy tables
+#### Lazy Tables
 
 Apsiration | Effort | Reality |
 --- | --- | --- 
