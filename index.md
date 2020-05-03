@@ -12,7 +12,7 @@ Not easy, because GitHub is complicated. **But I did it.** *Actually that's a li
 
 The `raw` and `githubusercontent.com` bits weren't in the github training, which was **_lacking_**. 
 
-~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`. **Note** I've added `alt text`. Hover mouse to reveal vital details.
+~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`. **Note** I've added `alt text`. Hover mouse over pictures to reveal vital details.
 
 ![Take me back](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_takemeback.jpg "Take me back!")
 
