@@ -19,6 +19,13 @@ Python. My son can do stuff on python on his raspberry.
 Maybe I should subcontract him. 
 ```
 
+#### Tables
+
+|Aspiration   | Effort | Reality |
+|:----------: |:------:| -------:|
+|Hard tables  | Max    | Fail    |
+|Easy tables  | Min    | Fail    |
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
