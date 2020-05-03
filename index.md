@@ -1,4 +1,4 @@
-### **Welcome to Williams doing a GitHub page**
+# **Welcome to Williams doing a GitHub page**
 
 I'm mostly trying to import a picture of my dog. 
 
