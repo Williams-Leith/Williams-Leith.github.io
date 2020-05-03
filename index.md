@@ -13,7 +13,10 @@ Not easy, because GitHub is complicated. **But I did it.** *Actually that's a li
 The `raw` and `githubusercontent.com` bits weren't in the github training, which was **_lacking_**. 
 
 When I told him it worked, he said,
-> Cool. I don't even use this!
+> Cool. I've never even used this before!
+
+:frowning_face:
+
 
 ~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`. **Note** I've added `alt text`. Hover mouse over pictures to reveal vital details.
 
