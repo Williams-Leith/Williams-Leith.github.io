@@ -12,6 +12,7 @@ Not easy, because GitHub is complicated. **But I did it.**
 2. Organise things I want to do
 3. Do a table
 4. Try a link.
+5. Pretend I can write `code`
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
