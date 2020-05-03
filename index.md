@@ -6,6 +6,8 @@ I'm mostly trying to import a picture of my dog.
 
 Not easy, because GitHub is complicated. **But I did it.** 
 
+## Backwards and downwards!
+
 1. Let's do a list
 2. Organise things I want to do
 3. Do a table
