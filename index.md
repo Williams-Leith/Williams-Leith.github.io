@@ -33,7 +33,7 @@ Maybe I should subcontract him.
 #### Posh Tables
 
 |Aspiration   | Effort | Reality |
-|:----------: |:------:| -------:|
+|:----------- |:------:| -------:|
 |Hard tables  | Max    | Fail    |
 |Easy tables  | Min    | Fail    |
 
