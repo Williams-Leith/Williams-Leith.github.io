@@ -8,6 +8,8 @@ Not easy, because GitHub is complicated. **But I did it.** *Actually that's a li
 
 [https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg]
 
+[See it here](https://raw.githubusercontent.com/Williams-Leith/images/master/IMG_0567.jpg)
+
 The `raw` and `githubusercontent.com` bits weren't in the github training, which was **_lacking_**. 
 
 ~~I keep making mistakes.~~ I'm getting the hang of this. You can only import `jpegs`.
@@ -19,8 +21,9 @@ The `raw` and `githubusercontent.com` bits weren't in the github training, which
 - [x] Let's do a list
 - [ ] Organise things I want to do
 - [x] Do a table
-- [ ] Try a link.
+- [x] Try a link.
 - [x] Pretend I can write `code`
+- [x] Mess about with syntax
 
 ``` 
 Python. My son can do stuff on python on his raspberry. 
