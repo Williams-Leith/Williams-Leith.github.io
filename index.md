@@ -88,6 +88,41 @@ Syntax highlighted code block
 
 [Talk to me](../email.html)
 
+<details>
+<summary>Heading</summary>
+
++ markdown list 1
+    + nested list 1
+    + nested list 2
++ markdown list 2
+
+</details>
+
+
+<!DOCTYPE HTML>
+   <html lang = "en">
+     <head>
+       <meta charset = "UTF-8" />
+     </head>
+     <body>
+       <h1>Form Demo</h1>
+       <form>
+          <fieldset>
+             <legend>Selecting elements</legend>
+             <p>
+                <label>Select list</label>
+                <select id = "myList">
+                  <option value = "1">one</option>
+                  <option value = "2">two</option>
+                  <option value = "3">three</option>
+                  <option value = "4">four</option>
+                </select>
+             </p>
+          </fieldset>
+       </form>
+     </body>
+   </html>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
