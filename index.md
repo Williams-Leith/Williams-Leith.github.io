@@ -162,9 +162,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
     <select name="type">  
 
-      <option value="policy">Standard - How will this impact my business</option>  
+      <option value="policy">General question - How will this impact my business</option>  
 
-      <option value="dev">dev - I have a problem with development</option>  
+      <option value="dev">Technical question - I have a problem with development</option>  
 
     </select>  
 
