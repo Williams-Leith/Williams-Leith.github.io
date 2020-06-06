@@ -142,6 +142,15 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+<script type="text/javascript" charset="utf-8">
+    function click_handler(){
+
+            var x = document.forms.sampleform;
+            var enum = x.empnum.value;
+            var uname = x.unit.value;
+            var ddvalue = x.type.options[x.type.selectedIndex].value;
+            var subj = enum +'|'+uname+'|'+ddvalue;
+            parent.location='mailto:abc@gmail.com?subject=' + encodeURIComponent(subj) +'&body=Thanks for writing. We will get back to you soon';
 
 <body>
 <form id='sampleform' name='sampleform'> 
@@ -156,7 +165,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
     <p>  
 
-   Type of subscription you want:  
+   Type of help you want:  
 
     <p>  
 
