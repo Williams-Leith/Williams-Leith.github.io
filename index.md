@@ -153,8 +153,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
             parent.location='mailto:abc@gmail.com?subject=' + encodeURIComponent(subj) +'&body=Thanks for writing. We will get             back to you soon';
     }
 
-<body>
-<form id='sampleform' name='sampleform'> 
+  <body>
+  <form id='sampleform' name='sampleform'> 
   Your email address: <input type='text' name='empnum' />  
 
    </p>  
@@ -168,18 +168,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
    Type of help you want:  
 
-    <p>  
+   <p>  
 
-    <select name="type">  
+   <select name="type">  
 
-      <option value="policy">General question - How will this impact my business</option>  
+   <option value="policy">General question - How will this impact my business</option>  
 
-      <option value="dev">Technical question - I have a problem with development</option>  
+   <option value="dev">Technical question - I have a problem with development</option>  
 
-    </select>  
+   </select>  
 
-    </p>  
-
+  
   </p>  
   <p>  
 
@@ -188,6 +187,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 </form> 
 </body>
  </html>
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Williams-Leith/Williams-Leith.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
