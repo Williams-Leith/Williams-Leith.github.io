@@ -142,6 +142,43 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+<body>
+<form id='sampleform' name='sampleform'> 
+   Emp Number: <input type='text' name='empnum' />  
+
+   </p>  
+
+   <p>  
+
+   Unit Name: <input type='text' name='unit' />  
+
+   </p>  
+
+    <p>  
+
+   Type of subscription you want:  
+
+    <p>  
+
+    <select name="type">  
+
+      <option value="standard">Standard - Free</option>  
+
+      <option value="prof">Professional - Paid</option>  
+
+    </select>  
+
+    </p>  
+
+  </p>  
+  <p>  
+
+<input type='button' name='Submit' value='Submit' onClick="javascript:click_handler()">
+</p> 
+</form> 
+</body>
+ </html>
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Williams-Leith/Williams-Leith.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
