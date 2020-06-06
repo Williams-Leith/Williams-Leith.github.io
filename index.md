@@ -99,7 +99,7 @@ Syntax highlighted code block
 </details>
 
 
-  <!DOCTYPE HTML>
+ 
    <html lang = "en">
      <head>
        <meta charset = "UTF-8" />
