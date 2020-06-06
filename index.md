@@ -160,31 +160,14 @@ https://www.keynotesupport.com/index.shtml" />
 <span><input type="email" name="email" id="email" class="data-entry" /></span><br /><br />
 <p>COMPUTER (Choose one):</p>
 <select name="product1" size="3">
-<option value="desktop">Desktop Computers</option>
-<option value="notebook">Notebook Laptops</option>
-<option value="netbook">Netbook Laptops</option>
+<select name="drop_menu">
+<option value="coding response issues">Technical coding issues</option>
+<option value="policy">Business impact issues</option>
+<option value="timing">Implementation issues</option>
 </select><br /><br />
 <p>OPERATING SYSTEM:</p>
-<select name="os">
-<option value="Windows-7">Windows 7</option>
-<option value="Windows-8.1">Windows 8.1</option>
-<option selected="selected" value="Windows-10">Windows 10</option>
-</select><br /><br />
-<p>PRICE RANGE:</p>
-<select name="price">
-<option value=" ">Please choose one</option>
-<option>$300 to $999</option>
-<option>$1000 to $1999</option>
-<option>$2000 or more</option>
-</select><br /><br />
-<p>OTHER PRODUCTS (Hold the Ctrl key to select more than one):</p>
-<select multiple="multiple" name="product2" size="3">
-<option value="printer">Printer</option>
-<option value="scanner">Scanner</option>
-<option value="router">Modem / Router</option>
-</select><br /><br />
 <label for="comments2">COMMENTS:</label><br />
-<span><textarea name="comments" id="comments2" rows="4" cols="20"></textarea></span><br /><br />
+<span><textarea name="comments" id="comments2" rows="10" cols="30"></textarea></span><br /><br />
 <span><input type="reset" class="button" value="RESET" />
 <input type="button" class="button" value="SUBMIT" onclick="window.alert ('This is a sample form only');" /></span><br />
 </div><!--end div align-->
