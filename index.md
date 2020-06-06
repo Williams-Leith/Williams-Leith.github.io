@@ -86,6 +86,31 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
+
+<title></title>
+
+  <style type="text/css">
+  </style>    
+</head>
+<body style="margin:0; padding:0; background-color:#F2F2F2;">
+  <center>
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
+        <tr>
+            <td align="center" valign="top">
+                
+                
+            </td>
+        </tr>
+    </table>
+  </center>
+</body>
+</html>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
