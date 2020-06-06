@@ -145,15 +145,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 <body>
 <form id='sampleform' name='sampleform'> 
-   Emp Number: <input type='text' name='empnum' />  
+  Your email address: <input type='text' name='empnum' />  
 
    </p>  
 
    <p>  
 
    Unit Name: <input type='text' name='unit' />  
-
-   </p>  
+ 
 
     <p>  
 
@@ -163,9 +162,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
     <select name="type">  
 
-      <option value="standard">Standard - Free</option>  
+      <option value="policy">Standard - How will this impact my business</option>  
 
-      <option value="prof">Professional - Paid</option>  
+      <option value="dev">dev - I have a problem with development</option>  
 
     </select>  
 
