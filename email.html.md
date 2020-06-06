@@ -1,4 +1,4 @@
-div class="form-group">
+
     <label for="c-form-profession">
         <span class="label-text">Profession:</span> 
         <span class="contact-error"></span>
