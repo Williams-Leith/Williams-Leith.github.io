@@ -99,7 +99,7 @@ Syntax highlighted code block
 </details>
 
 
-<!DOCTYPE HTML>
+  <!DOCTYPE HTML>
    <html lang = "en">
      <head>
        <meta charset = "UTF-8" />
@@ -122,6 +122,23 @@ Syntax highlighted code block
        </form>
      </body>
    </html>
+   
+   <html>
+<head>
+<title>Test page</title>
+</head>
+<body>
+
+  <form method="POST">
+    <select name="drop_menu">
+      <option value="dog">Dog</option>
+      <option value="cat">Cat</option>
+      <option value="duck">Duck</option>
+    </select>
+    <input type="submit" value="Send Form" />
+  </form>
+</body>
+</html>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
