@@ -164,7 +164,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
    Unit Name: <input type='text' name='unit' />  
  
 
-    <p>  
+   <p>  
 
    Type of help you want:  
 
@@ -182,11 +182,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
   </p>  
   <p>  
 
-<input type='button' name='Submit' value='Submit' onClick="javascript:click_handler()">
-</p> 
-</form> 
-</body>
- </html>
+  <input type='button' name='Submit' value='Submit' onClick="javascript:click_handler()">
+  </p> 
+  </form> 
+  </body>
+  </html>
 
 ### Jekyll Themes
 
