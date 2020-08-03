@@ -25,7 +25,7 @@ We are now in [Beta](https://www.gov.uk/help/beta). Some endpoints are ready for
 |**Release to production environment**| Traders can now use the API to send and receive messages to and from the offices of departure and arrivals|Late spring 2021|
 
 
-### [What we have released](https://github.com/hmrc/common-transit-convention-traders-roadmap/blob/CTDA-203/source/documentation/Recently-released.md)
+### [What we have released](https://github.com/Williams-Leith/Williams-Leith.github.io/blob/Road-map/released.md)
 
 See what we have released, either to the HMRC's sandbox environment or to live production.
 
